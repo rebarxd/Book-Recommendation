@@ -1,4 +1,4 @@
-# Litera Search
+# Litera Search Machine Learning
 
 This code implements a collaborative filtering-based recommender system for books. It first filters users who have rated more than 200 books and selects books that have received at least 50 ratings. The resulting DataFrame is then transformed into a pivot table for further processing.
 
